@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>this package allows you get expected response from a web request. the main class in the package derived from System.Net.WebClient and can use instead of it</Description>
+    <PackageReleaseNotes>first release</PackageReleaseNotes>
+    <RepositoryUrl>https://github.com/mguler/WebClientForTestPurposes</RepositoryUrl>
+    <PackageTags>test,WebClient,WebRequest, mock,WebResponse</PackageTags>
+    <Authors>Murat Güler</Authors>
+    <Company />
+    <Product>WebClientForTestPurpose</Product>
+    <PackageId>WebClientForTestPurpose</PackageId>
   </PropertyGroup>
 
 </Project>
