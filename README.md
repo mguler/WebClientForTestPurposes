@@ -1,0 +1,2 @@
+# WebClientForTestPurposes
+It is not easy to mock non-virtual and non-abstract members of a class (such as System.Net.Webclient) for implement test cases.  This project contains three derived classes from System.Net namespace which are provide help to get expected responses from a http server invocation. System.Net.WebClientTestPurpose class is derived from System.Net.Webclient.  So it can be used  instead of System.Net.WebClient (test purposes only!!!)
