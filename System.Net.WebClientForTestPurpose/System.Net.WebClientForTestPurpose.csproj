@@ -11,6 +11,8 @@
     <Company />
     <Product>WebClientForTestPurpose</Product>
     <PackageId>WebClientForTestPurpose</PackageId>
+    <PackageLicenseUrl>LICENSE.txt</PackageLicenseUrl>
+    <Copyright>2019</Copyright>
   </PropertyGroup>
 
 </Project>
